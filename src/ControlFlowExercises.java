@@ -2,7 +2,7 @@
 
 public class ControlFlowExercises {
     public static void main(String[] args) {
-//
+
 //        //WHILE LOOP
 //        Create an integer variable i with a value of 5.
 //        Create a while loop that runs so long as i is less than or equal to 15
@@ -55,7 +55,7 @@ public class ControlFlowExercises {
         ////            square = Math.pow(y, 2);
         //        } while (y < 1000000);
 
-        -------------OR------------ -
+//        -------------OR-------------
 
 //                do{
 //                    System.out.println(y);
@@ -114,35 +114,35 @@ public class ControlFlowExercises {
 //            System.out.print(i * i);
 //            System.out.print(i * i * i);
 //        }
-
-    Scanner sc = new Scanner(System.in);
-    String userChoice;
-
-    do {
-        System.out.println("Pkease enter a grade: ");
-        int gradeEntered = sc.nextInt();
-        char letterGrade = ' ';
-
-        if(gradeEntered >= 88) {
-            letterGrade = 'A';
-        } else if (gradeEntered >= 80) {
-            letterGrade = 'B';
-        } else if (gradeEntered >= 67) {
-            letterGrade = 'C';
-        } else if (gradeEntered >= 60) {
-            letterGrade = 'D';
-        } else if (gradeEntered >= 0) {
-
-        }
-
-        System.out.println(letterGrade);
-
-        System.out.println("\nDo you wish to continue? [y/n] ");
-
-    } while (userChoice.equalsIgnoreCase( anotherString: "y") || userChoice.equalIsIgnoreCase( anotherString: "yes"));
-
-
-
+//
+//    Scanner sc = new Scanner(System.in);
+//    String userChoice;
+//
+//    do {
+//        System.out.println("Pkease enter a grade: ");
+//        int gradeEntered = sc.nextInt();
+//        char letterGrade = ' ';
+//
+//        if(gradeEntered >= 88) {
+//            letterGrade = 'A';
+//        } else if (gradeEntered >= 80) {
+//            letterGrade = 'B';
+//        } else if (gradeEntered >= 67) {
+//            letterGrade = 'C';
+//        } else if (gradeEntered >= 60) {
+//            letterGrade = 'D';
+//        } else if (gradeEntered >= 0) {
+//
+//        }
+//
+//        System.out.println(letterGrade);
+//
+//        System.out.println("\nDo you wish to continue? [y/n] ");
+//
+//    } while (userChoice.equalsIgnoreCase( anotherString: "y") || userChoice.equalIsIgnoreCase( anotherString: "yes"));
+//
+//
+//
 
     }
 }
