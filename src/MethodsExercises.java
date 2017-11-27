@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
-public class MethodsExercises {
-    public static void main(String[] args) {
+//public class MethodsExercises {
+//    public static void main(String[] args) {
 
 //    int a = 11;
 //    int b = 10;
@@ -52,8 +52,8 @@ public class MethodsExercises {
 //        }
 
 
-    }
-}
+
+
 
 
 
