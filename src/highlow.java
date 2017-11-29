@@ -116,15 +116,15 @@
 //
 //        Create a class called BurgerTester to test assigning and printing property values
 //        and testing methods
-
-public class BurgerTools {
-    public String mostPopularTopping;
-    public int averageDaysBeforeExpiration;
-    public int temperatureWhenCooked;
-
-    public static void main(String[] args) {
-        public String grill() = "Grilling burger!";
-        System.out.println(grill);
-    }
-}
-
+//
+//public class BurgerTools {
+//    public String mostPopularTopping;
+//    public int averageDaysBeforeExpiration;
+//    public int temperatureWhenCooked;
+//
+//    public static void main(String[] args) {
+//        public String grill() = "Grilling burger!";
+//        System.out.println(grill);
+//    }
+//}
+//
