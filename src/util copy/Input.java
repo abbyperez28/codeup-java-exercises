@@ -62,6 +62,51 @@ public class Input {
         }
     }
 
+//    public int getInt() {
+//        return this.scan.nextInt();
+//    }
+//
+//    public int getInt(String prompt) {
+//        System.out.println(prompt);
+//        return this.scan.nextInt();
+//    }
+//
+//    public double getDouble(double min, double max) {
+//        System.out.println("Please input an decimal number between " + min + " and " + max);
+//
+//        double userInput = this.getDouble();
+//
+//        if(userInput > max || userInput < min) {
+//            return getDouble(min, max);
+//        } else {
+//            return userInput;
+//        }
+//    }
+//
+//    public double getDouble(double min, double max, String prompt) {
+//        System.out.println(prompt);
+//
+//        double userInput = this.getDouble();
+//
+//        if(userInput > max || userInput < min) {
+//            return getDouble(min, max);
+//        } else {
+//            return userInput;
+//        }
+//    }
+//
+//    public double getDouble() {
+//        return this.scan.nextDouble();
+//    }
+//
+//    public double getDouble(String prompt) {
+//        System.out.println(prompt);
+//        return this.scan.nextDouble();
+//    }
+
+
+
+//-----------EXCEPTIONS AND ERROR HANDLING EXERCISE-------------
     public int getInt() {
         return this.scan.nextInt();
     }
